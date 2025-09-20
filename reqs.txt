@@ -1,0 +1,13 @@
+ghostty
+nautilus
+wofi
+waybar
+hyprland
+ghostty
+wl-paste
+cliphist
+linux-wallpaperengine
+firefox
+hyprpicker
+hyprshot
+starship
