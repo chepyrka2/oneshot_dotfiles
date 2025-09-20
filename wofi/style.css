@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/terminus');
+window {
+border-radius: 10px;
+font-family: "Terminus", "JetBrains Mono";
+font-weight: bold;
+background-color: #181033;
+}
+#input {
+background-color: #1C0C4B;
+border-radius: 10px;
+}
+#entry:selected {
+background-color: #312066;
+border-radius: 5px;
+}
+#text:selected {
+color: #f1c232;
+}
