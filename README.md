@@ -2,7 +2,8 @@ off yay requirement:
 legit wallpaper engine
 
 
-p.s. starship must be added to .bashrc
+p.s. starship must be added to shell startup file
+
 Bash
 
 Add the following to the end of ~/.bashrc:
